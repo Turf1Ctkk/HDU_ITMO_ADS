@@ -1,5 +1,5 @@
-// Time complexity: O(N)
-// Space complexity: O(1)
+// Time complexity: O(N* half)
+// Space complexity: O(half)
 
 #include <bits/stdc++.h>
 using namespace std;
