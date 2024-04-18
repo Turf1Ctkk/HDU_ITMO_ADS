@@ -1,16 +1,4 @@
-#include <cstdio>
-#include <cstring>
-#include <cstdlib>
-#include <cmath>
-#include <deque>
-#include <vector>
-#include <queue>
-#include <stack>
-#include <iostream>
-#include <algorithm>
-#include <map>
-#include <set>
-#include <ctime>
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long LL;
 typedef double DB;
