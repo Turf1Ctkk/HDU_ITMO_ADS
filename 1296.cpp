@@ -1,3 +1,6 @@
+// Time complexity: O(N)
+// Space complexity: O(1)
+
 #include <iostream>
 #include <vector>
 using namespace std;
