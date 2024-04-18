@@ -1,15 +1,7 @@
-#include <cstdio>
-#include <cstring>
-#include <cstdlib>
-#include <cmath>
-#include <deque>
-#include <vector>
-#include <queue>
-#include <iostream>
-#include <algorithm>
-#include <map>
-#include <set>
-#include <ctime>
+// Time complexity: O(N)
+// Space complexity: O(1)
+
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long LL;
 typedef double DB;
