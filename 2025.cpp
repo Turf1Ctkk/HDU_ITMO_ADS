@@ -1,3 +1,6 @@
+// Time complexity: O(1) of each test. All: O(T)
+// Space complexity: O(1)
+
 #include <cstdio>
 using namespace std;
 #define Rep(i, t) for(int i = (0); i < (t); i++)
