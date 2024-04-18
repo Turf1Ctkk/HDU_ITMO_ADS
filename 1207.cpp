@@ -1,5 +1,6 @@
 // Time complexity: O(N log N)
 // Space complexity: O(log N)
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long LL;
 typedef double DB;
