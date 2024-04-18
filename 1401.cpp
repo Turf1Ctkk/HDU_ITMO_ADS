@@ -1,3 +1,6 @@
+// Time complexity: O(4^n)
+// Space complexity: O(2^(2n))
+
 #include <cstdio>
 #include <cmath>
 
